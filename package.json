@@ -1,0 +1,23 @@
+{
+  "name": "venom-web-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshp03/venom-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiteshp03/venom-web-app/issues"
+  },
+  "homepage": "https://github.com/hiteshp03/venom-web-app#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
